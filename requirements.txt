@@ -6,4 +6,3 @@ py-tgcalls==3.0.0
 tgcrypto==1.2.5
 yt-dlp>=2024.3.10
 pydantic==2.6.4
-
