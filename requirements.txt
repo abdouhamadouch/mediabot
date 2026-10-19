@@ -1,8 +1,7 @@
 
 fastapi==0.110.0
 uvicorn==0.28.0
-pyrogram==2.0.106
-py-tgcalls==3.0.0
+py-tgcalls[pyrogram]==3.0.0
 tgcrypto==1.2.5
 yt-dlp>=2024.3.10
 pydantic==2.6.4
